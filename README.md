@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @qaifaarooj
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on mobile app projects.
