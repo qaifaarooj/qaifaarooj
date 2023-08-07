@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @qaifaarooj
-- 👀 I’m a QA Engineer Internee
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on mobile app projects.
+- Skilled QA Engineer with a focus on Mobile and Web testing. 
+- Proficient in a wide range of analytical, digital, and administrative tasks.
+- Adept at delivering impactful presentations and possessing excellent communication abilities.
+- Enthusiastic team player with a knack for creative thinking and strong problem-solving capabilities.
+- Meticulous attention to detail rounds out my professional skill set.
